@@ -1,0 +1,11 @@
+F:\C#\LibraryManagement\BLL\bin\Debug\BLL.dll
+F:\C#\LibraryManagement\BLL\bin\Debug\BLL.pdb
+F:\C#\LibraryManagement\BLL\bin\Debug\DAL.dll
+F:\C#\LibraryManagement\BLL\bin\Debug\DTO.dll
+F:\C#\LibraryManagement\BLL\bin\Debug\DAL.pdb
+F:\C#\LibraryManagement\BLL\bin\Debug\DTO.pdb
+F:\C#\LibraryManagement\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\C#\LibraryManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\C#\LibraryManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\C#\LibraryManagement\BLL\obj\Debug\BLL.dll
+F:\C#\LibraryManagement\BLL\obj\Debug\BLL.pdb

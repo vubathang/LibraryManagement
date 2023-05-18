@@ -1,0 +1,6 @@
+F:\C#\LibraryManagement\DTO\bin\Debug\DTO.dll
+F:\C#\LibraryManagement\DTO\bin\Debug\DTO.pdb
+F:\C#\LibraryManagement\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\C#\LibraryManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\C#\LibraryManagement\DTO\obj\Debug\DTO.dll
+F:\C#\LibraryManagement\DTO\obj\Debug\DTO.pdb
