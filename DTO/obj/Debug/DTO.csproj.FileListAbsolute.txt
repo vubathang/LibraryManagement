@@ -4,3 +4,9 @@ F:\C#\LibraryManagement\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
 F:\C#\LibraryManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 F:\C#\LibraryManagement\DTO\obj\Debug\DTO.dll
 F:\C#\LibraryManagement\DTO\obj\Debug\DTO.pdb
+G:\Project-C#\DTO\bin\Debug\DTO.dll
+G:\Project-C#\DTO\bin\Debug\DTO.pdb
+G:\Project-C#\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+G:\Project-C#\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\Project-C#\DTO\obj\Debug\DTO.dll
+G:\Project-C#\DTO\obj\Debug\DTO.pdb

@@ -9,3 +9,14 @@ F:\C#\LibraryManagement\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
 F:\C#\LibraryManagement\BLL\obj\Debug\BLL.csproj.CopyComplete
 F:\C#\LibraryManagement\BLL\obj\Debug\BLL.dll
 F:\C#\LibraryManagement\BLL\obj\Debug\BLL.pdb
+G:\Project-C#\BLL\bin\Debug\BLL.dll
+G:\Project-C#\BLL\bin\Debug\BLL.pdb
+G:\Project-C#\BLL\bin\Debug\DAL.dll
+G:\Project-C#\BLL\bin\Debug\DTO.dll
+G:\Project-C#\BLL\bin\Debug\DAL.pdb
+G:\Project-C#\BLL\bin\Debug\DTO.pdb
+G:\Project-C#\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\Project-C#\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\Project-C#\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\Project-C#\BLL\obj\Debug\BLL.dll
+G:\Project-C#\BLL\obj\Debug\BLL.pdb

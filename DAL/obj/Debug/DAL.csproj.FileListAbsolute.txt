@@ -7,3 +7,12 @@ F:\C#\LibraryManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 F:\C#\LibraryManagement\DAL\obj\Debug\DAL.csproj.CopyComplete
 F:\C#\LibraryManagement\DAL\obj\Debug\DAL.dll
 F:\C#\LibraryManagement\DAL\obj\Debug\DAL.pdb
+G:\Project-C#\DAL\bin\Debug\DAL.dll
+G:\Project-C#\DAL\bin\Debug\DAL.pdb
+G:\Project-C#\DAL\bin\Debug\DTO.dll
+G:\Project-C#\DAL\bin\Debug\DTO.pdb
+G:\Project-C#\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\Project-C#\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\Project-C#\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\Project-C#\DAL\obj\Debug\DAL.dll
+G:\Project-C#\DAL\obj\Debug\DAL.pdb
